@@ -1,4 +1,3 @@
-shellcodes
 # SHELLCODES-WINDOWS
 
 This is a space where I share some shellcodes that I wrote in ASM x86 and x64 when I was developing exploits for the windows platform
